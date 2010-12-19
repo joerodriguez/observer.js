@@ -1,5 +1,5 @@
 # Observer.js
-The observer pattern in javascript. It's particularly useful for seperating rendering from your date models.
+The observer pattern in javascript. It's particularly useful for seperating rendering from your data models.
 
 ## Usage
 WebRenderer = {
